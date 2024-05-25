@@ -1,8 +1,6 @@
 import styles from "@styles/scss/subjcard.module.scss";
 import Link from "next/link";
 import Avatar from '@mui/material/Avatar';
-// import InitialsAvatar from /'react-initials-avatar';
-// import 'react-initials-avatar/lib/ReactInitialsAvatar.css';
 
 
 function stringToColor(string) {

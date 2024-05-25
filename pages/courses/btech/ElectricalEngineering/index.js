@@ -3,7 +3,7 @@ import Header from "components/common/Header/Header";
 import Sems from "components/Curriculum/Sems";
 import { firstYearSems } from "data/semData";
 import styles from '@styles/Home.module.css';
-const ComputerEngineering = () => {
+const ElectricalEngineering = () => {
   return (
     <div>
       <Header image="/images/blog/blog_bg.svg" text="Electrical Engineering" />
@@ -47,4 +47,4 @@ const ComputerEngineering = () => {
   );
 };
 
-export default ComputerEngineering;
+export default ElectricalEngineering;
